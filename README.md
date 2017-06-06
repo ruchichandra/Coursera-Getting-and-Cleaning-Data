@@ -2,6 +2,11 @@
 
 #Getting and Cleaning Data Course Project
 
+**Files
+** CodeBook.md describes the how to use all this, variables, the data, and any transformations or work that was performed to clean up the data.
+** run_analysis.R contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
+** The output of the 5th step is called secTidySet.txt, and uploaded in the course project's form.
+
 #Synopsis
 #The purpose of this project is to demonstrate ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. Required to submit: 1) a tidy data set as described below, 2) a link to a Github repository with script for performing the analysis, and 3) a code book that describes the variables, the data, and any transformations or work that performed to clean up the data called CodeBook.md.
 
@@ -94,10 +99,4 @@ This dataset is distributed AS-IS and no responsibility implied or explicit can 
 
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
 
-Files
 
-CodeBook.md describes the how to use all this, variables, the data, and any transformations or work that was performed to clean up the data.
-
-run_analysis.R contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
-
-The output of the 5th step is called secTidySet.txt, and uploaded in the course project's form.
